@@ -1,0 +1,48 @@
+launch:
+
+- node:
+    pkg: video_camera
+    exec: camera_node
+    name: video_camera
+    param:
+    -
+      name: "image_width"
+      value: 1280
+    -
+      name: "image_height"
+      value: 1080
+    -
+      name: "video_name"
+      value: "resource/test.avi"
+    -
+      name: "yaml_name"
+      value: "config/camera.yaml"
+    -
+      name: "fps"
+      value: 20
+
+- include:
+    file: "$(find-pkg-share foxglove_bridge)/launch/foxglove_bridge_launch.xml"
+    arg:
+    -
+        name: "port"
+        value: "8765"
+
+- node:
+    pkg: armor_detector
+    exec: armor_detector_node
+    name: armor_detector
+    param:
+    -
+      name: "debug"
+      value: True
+
+    -
+      name: "detect_color"
+      value: 1
+
+    -
+      name: "binary_thres"
+      value: 80
+
+    

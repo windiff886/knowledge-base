@@ -1,0 +1,5 @@
+model_path_: "./resource/v8_544_narrow3.onnx"
+img_size_: 544
+enemy_color_: 0
+score_threshold_: 0.75
+nms_threshold_: 0.5

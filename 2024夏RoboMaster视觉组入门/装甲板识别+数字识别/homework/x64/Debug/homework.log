@@ -1,0 +1,78 @@
+﻿  ArmorBox.cpp
+C:\C_code\homework\ArmorBox.cpp(103,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ArmorNumClassifier.cpp
+C:\C_code\homework\ArmorNumClassifier.cpp(14,37): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\C_code\homework\ArmorNumClassifier.cpp(14,37): warning C4244:         with
+C:\C_code\homework\ArmorNumClassifier.cpp(14,37): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(14,37): warning C4244:             _Tp=int
+C:\C_code\homework\ArmorNumClassifier.cpp(14,37): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(14,37): warning C4244:         and
+C:\C_code\homework\ArmorNumClassifier.cpp(14,37): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(14,37): warning C4244:             _Tp=float
+C:\C_code\homework\ArmorNumClassifier.cpp(14,37): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(15,57): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\C_code\homework\ArmorNumClassifier.cpp(15,57): warning C4244:         with
+C:\C_code\homework\ArmorNumClassifier.cpp(15,57): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(15,57): warning C4244:             _Tp=int
+C:\C_code\homework\ArmorNumClassifier.cpp(15,57): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(15,57): warning C4244:         and
+C:\C_code\homework\ArmorNumClassifier.cpp(15,57): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(15,57): warning C4244:             _Tp=float
+C:\C_code\homework\ArmorNumClassifier.cpp(15,57): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(15,37): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\C_code\homework\ArmorNumClassifier.cpp(15,37): warning C4244:         with
+C:\C_code\homework\ArmorNumClassifier.cpp(15,37): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(15,37): warning C4244:             _Tp=int
+C:\C_code\homework\ArmorNumClassifier.cpp(15,37): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(15,37): warning C4244:         and
+C:\C_code\homework\ArmorNumClassifier.cpp(15,37): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(15,37): warning C4244:             _Tp=float
+C:\C_code\homework\ArmorNumClassifier.cpp(15,37): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(16,40): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\C_code\homework\ArmorNumClassifier.cpp(16,40): warning C4244:         with
+C:\C_code\homework\ArmorNumClassifier.cpp(16,40): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(16,40): warning C4244:             _Tp=int
+C:\C_code\homework\ArmorNumClassifier.cpp(16,40): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(16,40): warning C4244:         and
+C:\C_code\homework\ArmorNumClassifier.cpp(16,40): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(16,40): warning C4244:             _Tp=float
+C:\C_code\homework\ArmorNumClassifier.cpp(16,40): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(32,37): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\C_code\homework\ArmorNumClassifier.cpp(32,37): warning C4244:         with
+C:\C_code\homework\ArmorNumClassifier.cpp(32,37): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(32,37): warning C4244:             _Tp=int
+C:\C_code\homework\ArmorNumClassifier.cpp(32,37): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(32,37): warning C4244:         and
+C:\C_code\homework\ArmorNumClassifier.cpp(32,37): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(32,37): warning C4244:             _Tp=float
+C:\C_code\homework\ArmorNumClassifier.cpp(32,37): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(33,57): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\C_code\homework\ArmorNumClassifier.cpp(33,57): warning C4244:         with
+C:\C_code\homework\ArmorNumClassifier.cpp(33,57): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(33,57): warning C4244:             _Tp=int
+C:\C_code\homework\ArmorNumClassifier.cpp(33,57): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(33,57): warning C4244:         and
+C:\C_code\homework\ArmorNumClassifier.cpp(33,57): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(33,57): warning C4244:             _Tp=float
+C:\C_code\homework\ArmorNumClassifier.cpp(33,57): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(33,37): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\C_code\homework\ArmorNumClassifier.cpp(33,37): warning C4244:         with
+C:\C_code\homework\ArmorNumClassifier.cpp(33,37): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(33,37): warning C4244:             _Tp=int
+C:\C_code\homework\ArmorNumClassifier.cpp(33,37): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(33,37): warning C4244:         and
+C:\C_code\homework\ArmorNumClassifier.cpp(33,37): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(33,37): warning C4244:             _Tp=float
+C:\C_code\homework\ArmorNumClassifier.cpp(33,37): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(34,40): warning C4244: “参数”: 从“_Tp”转换到“_Tp”，可能丢失数据
+C:\C_code\homework\ArmorNumClassifier.cpp(34,40): warning C4244:         with
+C:\C_code\homework\ArmorNumClassifier.cpp(34,40): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(34,40): warning C4244:             _Tp=int
+C:\C_code\homework\ArmorNumClassifier.cpp(34,40): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(34,40): warning C4244:         and
+C:\C_code\homework\ArmorNumClassifier.cpp(34,40): warning C4244:         [
+C:\C_code\homework\ArmorNumClassifier.cpp(34,40): warning C4244:             _Tp=float
+C:\C_code\homework\ArmorNumClassifier.cpp(34,40): warning C4244:         ]
+C:\C_code\homework\ArmorNumClassifier.cpp(111,21): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  homework.vcxproj -> C:\C_code\homework\x64\Debug\homework.exe
